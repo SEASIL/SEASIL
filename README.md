@@ -71,10 +71,10 @@
 
 ---
 
-### ⚡ Processing...
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding Animation" width="550" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SEASIL&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=5" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -83,3 +83,4 @@
 </p>
 
 </div>
+
