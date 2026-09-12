@@ -11,11 +11,8 @@
 
 <!-- Social Links -->
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:asifsekh117@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
@@ -62,12 +59,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEASIL&show_icons=true&theme=radical&hide_border=true&bg_color=050505&title_color=38B2AC&text_color=e5e5e5&icon_color=38B2AC" alt="SEASIL's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEASIL&theme=radical&hide_border=true&background=050505&ring=38B2AC&fire=38B2AC&currStreakNum=e5e5e5" alt="SEASIL's GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEASIL&layout=compact&theme=radical&hide_border=true&bg_color=050505&title_color=38B2AC&text_color=e5e5e5" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEASIL&theme=radical&hide_border=true&background=050505&ring=38B2AC&fire=38B2AC&currStreakNum=e5e5e5" alt="SEASIL's GitHub Streak" width="60%" />
 </p>
 
 ---
