@@ -74,7 +74,7 @@
 ### ⚡ Processing...
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561115cb-1624-41c2-9240-f5628cd066f4.gif" alt="Coding Animation" width="550" />
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding Animation" width="550" />
 </p>
 
 ---
