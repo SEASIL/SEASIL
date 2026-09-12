@@ -71,10 +71,10 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEASIL&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=5" alt="GitHub Trophies" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" width="100%" />
 </p>
 
 ---
@@ -83,4 +83,5 @@
 </p>
 
 </div>
+
 
